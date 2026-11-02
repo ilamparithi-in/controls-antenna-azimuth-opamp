@@ -1,0 +1,15 @@
+# Microsoft Word temporary / lock files
+~$*
+*.tmp
+
+# MATLAB / Simulink cache and code generation
+*.slxc
+slprj/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Scratch and log dumps
+temp_*
+*.log
